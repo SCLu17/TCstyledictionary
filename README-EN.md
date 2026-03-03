@@ -7,7 +7,7 @@ Hong Kong’s situation is particularly acute due to several reasons: its govern
 
 The _Disambiguation Dictionary for Traditional Chinese_ is an attempt to aid editors in streamlining the proofing process, by collecting and comparing similar or alternative characters as used across regions of China, Japan and Korea, in a similar vein to style guides in foreign languages. Due to the unique nature of CJK ideograph implementation in computers, the dictionary is split into two parts: the first addresses ideographic forms and variants, the second addresses ideograph selection for compounds.
 
-In addition to the dictionary’s PDF file, an ODS spreadsheet is also enclosed with the release with all explanatory notes omitted, allowing users to quickly search for variants via e.g. regular expressions. The Cantonese term for ‘cheat sheet’, ‘貓紙’, is therefore considered apt for the spreadsheet’s name. Readers are welcome to make changes or additions to the spreadsheet and create their own style guide for use.
+In addition to the dictionary’s PDF file, an ODS spreadsheet (suffixed with 'cheatsheet') is also enclosed with the release with all explanatory notes omitted, allowing users to quickly search for variants via e.g. regular expressions. Readers are welcome to make changes or additions to the spreadsheet and create their own style guide for use.
 
 The expression ‘every book has its errata’ would be one familiar to Chinese readers. This is very much a solo project; suggestions and corrections are welcome via [Discussions](https://github.com/SCLu17/TCstyledictionary/discussions) or [Issues](https://github.com/SCLu17/TCstyledictionary/issues).
 
